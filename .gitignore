@@ -89,3 +89,5 @@ ENV/
 .ropeproject
 
 *.sqlite3
+blog/blog/*.pyc
+blog/entries/*.pyc
